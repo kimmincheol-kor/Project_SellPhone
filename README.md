@@ -1,4 +1,4 @@
-# SellPhone - 휴대폰 중고거래    
+# SellPhone - 휴대폰 중고거래 사이트    
 ### 2020-1 KWU - Software Engineering Project
 
 > **Team Member**
